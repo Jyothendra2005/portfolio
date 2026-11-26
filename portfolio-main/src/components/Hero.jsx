@@ -88,7 +88,7 @@ const Hero = () => {
               <img
                 src={profilePic}
                 alt={NAME}
-                className="w-full h-full object-cover object-center rounded-full"
+                className="w-full h-full object-contain rounded-full"
               />
 
             </div>
