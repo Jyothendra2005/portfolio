@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.jpg";
 import project6 from "../assets/projects/project-6.jpg";
-import profileImg from "../assets/Jyothendra-image.png";
+import profileImg from "../assets/Jyothendra-img.jpeg";
 
 export const NAME = "Jyothendra Murikithi";
 export const EMAIL = "mjyothendrayadav@gmail.com";
